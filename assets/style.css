@@ -1,0 +1,7 @@
+html {
+    font-size: 100%;
+}
+@font-face {
+    font-family: "dana";
+    src: url(../assets/fonts/dana-medium\ \(2\).ttf);
+}
